@@ -1,0 +1,72 @@
+body {
+  background-color: darkblue;
+  color: black;
+}
+
+h1 {
+  color: aqua;
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+  margin: 20px 0;
+  padding: 20px;
+}
+
+#title {
+  color: red;
+  font-style: italic;
+}
+
+.page-content {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.primary-box {
+  background-color: white;
+  border: solid 10px #333;
+  padding: 20px;
+  margin: 30px 20px;
+}
+
+.primary-box h2 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.secondary-box {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  margin: 30px 20px;
+}
+
+.secondary-box p {
+  font-size: 14px;
+  font-style: normal;
+}
+
+.secondary-box p em {
+  color: #fc3fc3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  border-bottom: solid 3px red;
+  padding: 0 0 10px;
+}
+
+#main-container {
+  width: 960px;
+  margin: 20px auto;
+}
