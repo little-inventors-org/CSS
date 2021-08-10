@@ -1,9 +1,13 @@
 # CSS
 
 Class 1
-1 to 5
+<br>
+1 to 8
+<br>
 Homework: 
 
 Class  2
-6 to 10
+<br>
+8 to 11
+<br>
 Homework:
